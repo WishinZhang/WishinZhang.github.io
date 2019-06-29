@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WishinZhang.github.io</id>
     <title>WishinZhang</title>
-    <updated>2019-06-29T07:05:30.831Z</updated>
+    <updated>2019-06-29T07:05:39.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WishinZhang.github.io"/>
     <link rel="self" href="https://WishinZhang.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;生命不息，学习不止&lt;/span</subtitle>
     <logo>https://WishinZhang.github.io/images/avatar.png</logo>
     <icon>https://WishinZhang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, WishinZhang</rights>
